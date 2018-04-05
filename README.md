@@ -1,6 +1,4 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# React-Youtube-App
 
 ### Getting Started
 
@@ -10,8 +8,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/tpatel2/React-Youtube-App.git
+> cd React-Youtube-App
 > npm install
 > npm start
 ```
